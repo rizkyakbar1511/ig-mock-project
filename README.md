@@ -1,2 +1,2 @@
-## Deploy on Vercel
+## Practice
 Demo: https://ig-mock-project.vercel.app/
